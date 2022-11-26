@@ -1,6 +1,4 @@
 this is devops
-<<<<<<< HEAD
 this is git pull
-=======
 this pull
->>>>>>> 92cd17df868fa2f88b2ae685bf7967f9ac1a0c02
+fetch
